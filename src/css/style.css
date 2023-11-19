@@ -1,0 +1,22 @@
+body {
+    color: #999;
+}
+
+.wraper {
+    display: flex;
+    width: 1000px;
+    justify-content: space-around;
+}
+
+.wraper_card {
+    border: 1px solid grey;
+    width: 31%;
+}
+
+.button_card {
+    margin-left: 15%;
+}
+
+.hide {
+    display: none;
+}
