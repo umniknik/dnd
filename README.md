@@ -1,6 +1,1 @@
-# Webpack5
-
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-
-![CI](https://github.com/umniknik/env/actions/workflows/web.yml/badge.svg)
+![example event parameter](https://github.com/umniknik/dnd/actions/workflows/web.yml/badge.svg?event=push)
