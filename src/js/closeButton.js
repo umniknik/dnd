@@ -6,11 +6,6 @@ export default function closeButton(e) {
   const buttonAddCard = wraper.querySelector(".button_add_card");
   const buttonCloseInputHide = wraper.querySelector(".button_close_input");
 
-  //   input.classList.add("hide");
-  //   buttonAddCard.classList.add("hide");
-  //   buttonCloseInputHide.classList.add("hide");
-  //   buttonAddAnotherCard.classList.remove("hide");
-
   input.classList.toggle("hide");
   buttonAddCard.classList.toggle("hide");
   buttonCloseInputHide.classList.toggle("hide");
